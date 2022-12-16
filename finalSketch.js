@@ -10,7 +10,7 @@
     "1": The Sunlight Zone where users can see sharks and jellyfish among the coral reefs (see "sunlight.js")
     "2": The Twilight Zone where users can explore particle micro-organisms and add plankton (see "finalProjectTwilight.js")
     "3": The Midnight Zone where users can give the giant squid tentacles by clicking and drawing across the screen (see "midnight.js")
-    "4": The Abyss Zone where users can explore the darkness with a mysterious brush
+    "4": The Abyss Zone where users can explore the darkness with a mysterious brush (see "abyss.js")
 
     Sources include:
     The generative design library: http://www.generative-gestaltung.de/2/.
