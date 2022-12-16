@@ -23,10 +23,10 @@ Please see files "sunlight.js", "finalProjectTwilight", "midnight.js", and "abys
     The generative design library: http://www.generative-gestaltung.de/2/.
     Delaunay Fast Algorithm by Jay LaPorte: https://github.com/darkskyapp/delaunay-fast/blob/master/delaunay.js.
     Frozen Brush by Jason Labbe: https://jasonlabbe3d.com/.    
-    
-    
-    <img width="1435" alt="Screen Shot 2022-12-16 at 2 37 53 AM" src="https://user-images.githubusercontent.com/63525869/208048005-de7f1ab9-bace-48d0-b70b-ce84081fb085.png">
-
+      
+   
+   
+   <img width="1435" alt="Screen Shot 2022-12-16 at 2 37 53 AM" src="https://user-images.githubusercontent.com/63525869/208048174-e7b650a3-2e36-436f-9d04-c845fff4f84a.png">
 
 <img width="1436" alt="Screen Shot 2022-12-16 at 2 38 05 AM" src="https://user-images.githubusercontent.com/63525869/208048027-f325e3c5-36ef-49c4-a76b-e67f77f1190a.png">
 
