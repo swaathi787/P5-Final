@@ -24,3 +24,14 @@ Please see files "sunlight.js", "finalProjectTwilight", "midnight.js", and "abys
     Delaunay Fast Algorithm by Jay LaPorte: https://github.com/darkskyapp/delaunay-fast/blob/master/delaunay.js.
     Frozen Brush by Jason Labbe: https://jasonlabbe3d.com/.    
     
+    
+    <img width="1435" alt="Screen Shot 2022-12-16 at 2 37 53 AM" src="https://user-images.githubusercontent.com/63525869/208048005-de7f1ab9-bace-48d0-b70b-ce84081fb085.png">
+
+
+<img width="1436" alt="Screen Shot 2022-12-16 at 2 38 05 AM" src="https://user-images.githubusercontent.com/63525869/208048027-f325e3c5-36ef-49c4-a76b-e67f77f1190a.png">
+
+<img width="1440" alt="Screen Shot 2022-12-16 at 2 39 01 AM" src="https://user-images.githubusercontent.com/63525869/208048042-a64ed9ae-1695-40bb-ade5-87d46c7a39fb.png">
+
+<img width="1434" alt="Screen Shot 2022-12-16 at 2 40 02 AM" src="https://user-images.githubusercontent.com/63525869/208048062-8580d5be-366c-4121-8e63-52f826ab2b32.png">
+
+
